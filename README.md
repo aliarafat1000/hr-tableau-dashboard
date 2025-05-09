@@ -3,7 +3,7 @@
 
 # 📊 Human Resources Dashboard – Tableau Project
 
-🔗 **Live Dashboard Link**: <a href="https://public.tableau.com/views/HRDashboard_17456854874820/HRDetails?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">View on Tableau Public</a>
+🔗 **Live Dashboard Link**: [View on Tableau Public](https://public.tableau.com/views/HRDashboard_17456854874820/HRDetails?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🧩 Project Overview
 
