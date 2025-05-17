@@ -3,7 +3,7 @@
 
 # 📊 Human Resources Dashboard – Tableau Project
 
-🔗 **Live Dashboard Link**: [View on Tableau Public](https://public.tableau.com/views/HRDashboard_17456854874820/HRDetails?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 **Live Dashboard Link**: [View on Tableau Public](https://public.tableau.com/shared/8BRR5PFBT?:display_count=n&:origin=viz_share_link)
 
 ## 🧩 Project Overview
 
@@ -103,7 +103,7 @@ The data is simulated HR employee data used for visualization and practice purpo
 
 Feel free to explore the live version of this dashboard and interact with the visuals directly:
 
-🔗 **[Live Dashboard – Tableau Public](https://public.tableau.com/views/HRDashboard_17456854874820/HRDetails?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+🔗 **[Live Dashboard – Tableau Public](https://public.tableau.com/shared/8BRR5PFBT?:display_count=n&:origin=viz_share_link)**
 
 ---
 
